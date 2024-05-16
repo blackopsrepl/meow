@@ -1,0 +1,9 @@
+{
+    "name": "MEOW - Mystical Efficiency, Organized Whiskers!",
+    "version": "0.0.1",
+    "description": "MEOW dances in delight to support our neurodiverse friends by turning their whimsical thoughts and scattered ideas into purrfectly organized lists and tasks",
+    "author_name": "Vittorio Distefano",
+    "plugin_url": "https://github.com/blackopsrepl/meow",
+    "tags": "neurodiversity, planner, todo, productivity",
+    "thumb": "https://raw.githubusercontent.com/blackopsrepl/meow/main/img/thumb.png"
+}
